@@ -5,7 +5,7 @@ function App() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="flex items-center justify-between flex-wrap p-6">
+    <nav className="flex items-center justify-between flex-wrap p-6 pb-[0.5rem]">
       <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72">
         <img src={logo} className="w-[9rem] mr-2" alt="Logo" />
       </div>
@@ -38,25 +38,25 @@ function App() {
         <div className="text-sm lg:flex-grow">
           <a
             href="#"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 kuenstler"
           >
             Our Story
           </a>
           <a
             href="#"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 kuenstler"
           >
             Membership
           </a>
           <a
             href="#"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 kuenstler"
           >
             Write
           </a>
           <a
             href="#"
-            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4"
+            className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 kuenstler"
           >
             Sign in
           </a>

@@ -1,18 +1,19 @@
 import Avatar from "./Avatar";
 import AvatarSecond from "./AvatarSecond";
+import "../App.css";
 
 const Hero = () => {
   return (
     <div>
       <div className="flex justify-center flex-col items-center h-[14rem] border-t-2 border-black">
-        <h1 className="text-6xl text-center">
+        <h1 className="text-6xl text-center kuenstler">
           Every idea needs a <span className="font-bold">Medium.</span>{" "}
         </h1>
       </div>
       <hr className="border border-black w-screen" />
       <div className="flex items-center justify-between w-screen max-md:flex-col-reverse">
         <div className="w-1/2 p-12border-r-2 h-full border-black max-md:w-auto">
-          <p className="p-8 w-[85%] m-auto">
+          <p className="p-8 w-[85%] m-auto kuenstler">
             Contrary to popular belief, Lorem Ipsum is not simply random text.
             It has roots in a piece of classical Latin literature from 45 BC,
             making it over 2000 years old. Richard McClintock, a Latin professor
@@ -39,12 +40,12 @@ const Hero = () => {
 
       <div className="bg-[#F7D3BB] pb-16">
         <div className=" w-screen">
-          <h1 className="text-8xl flex justify-center text-center pt-12 max-md:text-6xl">
+          <h1 className="text-8xl flex justify-center text-center pt-12 max-md:text-6xl kuenstler">
             A living network of
             <br />
             curious minds.
           </h1>
-          <p className="text-md m-auto text-center p-12 pt-8 w-1/2 max-md:w-auto">
+          <p className="text-md m-auto text-center p-12 pt-8 w-1/2 max-md:w-auto kuenstler">
             Anyone can write on Medium. Thought-leaders, journalists, experts,
             and individuals with unique perspectives share their thinking here.
             You'll find pieces by independent writers from around the globe,

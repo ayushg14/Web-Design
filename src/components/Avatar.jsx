@@ -9,7 +9,7 @@ const Avatar = () => {
               src="https://img.lovepik.com/free-png/20210926/lovepik-cartoon-customer-service-avatar-png-image_401451024_wh1200.png"
               alt="avatar"
             />
-            <h1 className="text-2xl">Erica Dhawan</h1>
+            <h1 className="text-2xl kuenstler">Erica Dhawan</h1>
           </div>
           <div className="flex items-center mr-10 border-t-2 border-b-2 border-black w-[28%] max-sm:w-auto max-sm:justify-center max-sm:mb-2 max-sm:p-4 max-sm:mr-0 max-sm:border-b-0">
             <img
@@ -17,7 +17,7 @@ const Avatar = () => {
               src="https://img.lovepik.com/free-png/20210926/lovepik-cartoon-customer-service-avatar-png-image_401451024_wh1200.png"
               alt="avatar"
             />
-            <h1 className="text-2xl">Erica Dhawan</h1>
+            <h1 className="text-2xl kuenstler">Erica Dhawan</h1>
           </div>
           <div className="flex items-center border-t-2 border-b-2 border-black w-[28%] max-sm:w-auto max-sm:justify-center max-sm:mb-2 max-sm:p-4">
             <img
@@ -25,7 +25,7 @@ const Avatar = () => {
               src="https://img.lovepik.com/free-png/20210926/lovepik-cartoon-customer-service-avatar-png-image_401451024_wh1200.png"
               alt="avatar"
             />
-            <h1 className="text-2xl">Erica Dhawan</h1>
+            <h1 className="text-2xl kuenstler">Erica Dhawan</h1>
           </div>
         </div>
       </div>
